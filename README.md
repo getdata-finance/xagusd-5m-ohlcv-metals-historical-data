@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `5m` sample updated in sync
 
-> **Sample on GitHub** · `XAGUSD_5m.csv` (11,089 rows, `2026-07-07` -> `2026-09-02`, 1.06 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xagusd)** — **1,205,027** `5m` rows (full `1m`: 5,955,593), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
+> **Sample on GitHub** · `XAGUSD_5m.csv` (11,088 rows, `2026-07-07` -> `2026-09-02`, 1.06 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/xagusd)** — **1,205,027** `5m` rows (full `1m`: 5,671,224), **11 timeframes**, `2009-02-24` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Silver / US Dollar · Metals | Silver / US Dollar · Metals |
 | Timeframes | `5m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 5m rows | 11,089 | **1,205,027** |
+| 5m rows | 11,088 | **1,205,027** |
 | Size | 1.06 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
 | Period | `2026-07-07` -> `2026-09-02` | `2009-02-24` -> `2026-09-02` |
 | File | `XAGUSD_5m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/xagusd) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`XAGUSD_5m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 60.481 | 60.52 | 60.22 | 60.356 | 6676 |
 | 2026-07-07T19:05:00+00:00 | 60.356 | 60.36 | 59.995 | 60.041 | 6368 |
 | 2026-07-07T19:10:00+00:00 | 60.041 | 60.056 | 59.826 | 59.854 | 5143 |
 | 2026-07-07T19:15:00+00:00 | 59.854 | 59.859 | 59.481 | 59.65 | 5713 |
 | 2026-07-07T19:20:00+00:00 | 59.65 | 59.807 | 59.54 | 59.78 | 7681 |
+| 2026-07-07T19:25:00+00:00 | 59.78 | 59.901 | 59.675 | 59.807 | 5822 |
 
 **Last rows**
 
